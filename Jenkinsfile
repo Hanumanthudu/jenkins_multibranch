@@ -1,4 +1,4 @@
-node('master_loans') 
+node('master_lab') 
 {
           stage('Continuous Download_loans') 
 	{
